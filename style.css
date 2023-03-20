@@ -107,9 +107,20 @@ a:hover {
     .container {
         display: block;
         width: 90%;
-        margin-top: ;
     }
     .left {
         width: 100%;
+    }
+    a {
+        margin-top: 15px;
+    }
+    .price  {
+        margin: 15px auto;
+    }
+    .right {
+        padding-top: 15px;
+    }
+    h1 {
+        margin: 15px 0;
     }
 }
